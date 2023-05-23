@@ -1,0 +1,15 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Metro Bundler cache
+/.metro/
+
+# Ignore Android build output
+/android/
+
+# Ignore iOS build output
+/ios/Pods/
+/ios/build/
+
+# Ignore macOS build output
+/build/
